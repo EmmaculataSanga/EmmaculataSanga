@@ -1,5 +1,4 @@
-# Re-run code to generate the README file after execution environment reset
-readme_profile_content = """
+
 # 👋🏽 Hi there, I'm Emmaculata Sanga
 
 🎓 Soon-to-be Cybersecurity Master's graduate | 🔐 Junior Cybersecurity Analyst | 🛡️ Security Enthusiast | 🌊 Weekend Jet Skier
