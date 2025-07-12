@@ -53,12 +53,6 @@ I love jet skiing on the weekends and analyzing logs on weekdays — balance, ri
 [www.linkedin.com/in/emmaculata-sanga-0ab790363](http://www.linkedin.com/in/emmaculata-sanga-0ab790363) | [Emmaculatasanga@gmail.com](mailto:Emmaculatasanga@gmail.com)
 """
 
-# Save the file
-readme_profile_path = "/mnt/data/README_EmmaculataSanga.md"
-with open(readme_profile_path, "w") as file:
-    file.write(readme_profile_content)
-
-readme_profile_path
 
 <!--
 **EmmaculataSanga/EmmaculataSanga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
